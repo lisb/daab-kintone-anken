@@ -1,5 +1,5 @@
 # Description:
-#   キントウンの案件管理アプリのデータを参照します。
+#   kintoneの案件管理アプリのデータを参照します。
 # 
 # Dependencies:
 #   None
